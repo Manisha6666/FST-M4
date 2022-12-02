@@ -1,0 +1,1 @@
+hive> SELECT COUNT(*) FROM episodeIV WHERE INSTR(line,'LUKE')>0;
